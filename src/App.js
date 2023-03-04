@@ -3,6 +3,7 @@ import ReactDom from 'react-dom';
 import './index.css';
 import { books } from './books';
 import Book from './Book';
+// This is a comment for git test
 
 function BookList() {
   return (
